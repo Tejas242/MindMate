@@ -194,6 +194,3 @@ DATABASE_URL=sqlite:///./mindmate.db
 - **Playwright / Cypress** → end-to-end UX testing.  
 - **CI/CD pipelines** → automated tests, deployments.  
 
-
-
-## 🏗 Directory Structure
